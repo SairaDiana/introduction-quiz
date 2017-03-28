@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Una plataforma de datos es aquella en donde se almacenan grandes cantidades de datos extraídos y procesados"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "La variedad de los datos se refiere a los vario tipos de datos que exiten, en este caso pueden ser los procesados y los no procesados"
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Datos no procesados; Conjunto de datos ordenados; Diccionario de datos"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Es la descarga de datos de aplicaciones web, para poder realizarlo necesitamos de herrramientas en nuestro caso usamos python"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "La integración de los datos es "
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "El procesamiento de los datos hace referencia a su propio nombre, procesa la información  recopilando y manipulando los datos, para que por medio de estos pasos se pueda llegar a producir información significativa"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Los más usados son los siguientes: Limpieza; Transformación; Unión; Remodelación"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Los más usados son los siguientes: Limpieza; Transformación; Unión; Remodelación"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "your-answer-here"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "Es el proceso de inspección, limpieza y modelación de los datos con la finalidad de conseguir información util. Considero que es el más importante, ya que con los resultados obtenidos se tomaran la decisiones de la empresa"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "Retención, adquicisión y uso"
+		}
+	]	
+
